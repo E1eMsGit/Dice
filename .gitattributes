@@ -1,2 +1,1 @@
-*.ino linguist-language=Arduino
-*.fzz linguist-language=Arduino
+*.ino linguist-language=C++
