@@ -1,3 +1,2 @@
-* linguist-vendored
 *.fzz inguist-vendored=false
 *.ino linguist-language=Arduino
