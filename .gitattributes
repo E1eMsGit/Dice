@@ -1,2 +1,2 @@
-* linguist-vendored 
 *.ino linguist-language=Java
+*.fzz linguist-language=Java
